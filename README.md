@@ -126,6 +126,6 @@ security_log.txt:  timestamp,role,entered_id,result
 - `GUI` — SFML front-end, references all stores
 
 ---
-
+https://github.com/ahmadkhan2429-ops/Hospital-Management-system/blob/main/README.md
 ## GitHub Repository
 [Paste your GitHub link here]
